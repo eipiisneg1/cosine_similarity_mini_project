@@ -1,0 +1,1 @@
+# cosine_similarity_mini_project
